@@ -6,4 +6,4 @@ It also tries to compare this data with the GDP of the country amount of journal
 
 The secondary files include the four other notebooks that primarily serve the task of a cheat sheet, like a look-up anytime a simple method is forgotten
 
-The playing with pandas.ipynb is the third assignment and the othee four files are the course resources of the MOOC course Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis)
+The playing with pandas.ipynb is the third assignment and the othee four files are the course resources of the MOOC course [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis)
